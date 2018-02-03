@@ -1,0 +1,10 @@
+{
+  "name": "pdfs",
+  "version": "1.0.0",
+  "description": "Zitrone44's PDF Server",
+  "main": "app.js",
+  "repository": "https://github.com/Zitrone44/pdfs",
+  "author": "Zitrone44",
+  "license": "MIT",
+  "private": true
+}
