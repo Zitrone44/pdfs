@@ -1,0 +1,7 @@
+{
+  "name": "PDFs",
+  "description": "A simple nodejs pdf generation server",
+  "repository": "https://github.com/Zitrone44/pdfs",
+  "logo": "https://cdn.rawgit.com/Zitrone44/pdfs/master/pdf.png",
+  "keywords": ["node", "express", "pdfmake"]
+}
